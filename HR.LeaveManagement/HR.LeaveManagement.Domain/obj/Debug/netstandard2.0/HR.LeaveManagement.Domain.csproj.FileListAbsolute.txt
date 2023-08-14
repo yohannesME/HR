@@ -1,0 +1,20 @@
+C:\Users\Yohannes M\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\netstandard2.0\HR.LeaveManagement.Domain.deps.json
+C:\Users\Yohannes M\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\netstandard2.0\HR.LeaveManagement.Domain.dll
+C:\Users\Yohannes M\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\netstandard2.0\HR.LeaveManagement.Domain.pdb
+C:\Users\Yohannes M\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.0\HR.LeaveManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Yohannes M\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.0\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yohannes M\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.0\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Yohannes M\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.0\HR.LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\Yohannes M\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.0\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yohannes M\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.0\HR.LeaveManagement.Domain.dll
+C:\Users\Yohannes M\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.0\HR.LeaveManagement.Domain.pdb
+C:\Users\yohan\OneDrive\Documents\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\netstandard2.0\HR.LeaveManagement.Domain.deps.json
+C:\Users\yohan\OneDrive\Documents\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\netstandard2.0\HR.LeaveManagement.Domain.dll
+C:\Users\yohan\OneDrive\Documents\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\netstandard2.0\HR.LeaveManagement.Domain.pdb
+C:\Users\yohan\OneDrive\Documents\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.0\HR.LeaveManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\yohan\OneDrive\Documents\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.0\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\OneDrive\Documents\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.0\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\yohan\OneDrive\Documents\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.0\HR.LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\yohan\OneDrive\Documents\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.0\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yohan\OneDrive\Documents\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.0\HR.LeaveManagement.Domain.dll
+C:\Users\yohan\OneDrive\Documents\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.0\HR.LeaveManagement.Domain.pdb
