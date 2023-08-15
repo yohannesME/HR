@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yohan\\OneDrive\\Documents\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\yohan\\OneDrive\\Documents\\HR\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
       "projectName": "HR.LeaveManagement.Domain",
-      "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+      "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\HR\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
       "packagesPath": "C:\\Users\\yohan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yohan\\OneDrive\\Documents\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\obj\\",
+      "outputPath": "C:\\Users\\yohan\\OneDrive\\Documents\\HR\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yohan\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -560,11 +560,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yohan\\OneDrive\\Documents\\HR.LeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+      "projectUniqueName": "C:\\Users\\yohan\\OneDrive\\Documents\\HR\\HR.LeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
       "projectName": "HR.LeaveManagement.Application",
-      "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\HR.LeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+      "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\HR\\HR.LeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
       "packagesPath": "C:\\Users\\yohan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yohan\\OneDrive\\Documents\\HR.LeaveManagement\\HR.LeaveManagement.Application\\obj\\",
+      "outputPath": "C:\\Users\\yohan\\OneDrive\\Documents\\HR\\HR.LeaveManagement\\HR.LeaveManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yohan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -579,8 +579,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\yohan\\OneDrive\\Documents\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
-              "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
+            "C:\\Users\\yohan\\OneDrive\\Documents\\HR\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\HR\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
             }
           }
         }
